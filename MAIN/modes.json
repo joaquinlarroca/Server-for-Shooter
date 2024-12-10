@@ -1,0 +1,16 @@
+{
+    "modes": {
+        "1":{
+            "name": "Mode 1",
+            "map": "random",
+            "teams": false,
+            "reset_time": 180
+        },
+        "2":{
+            "name": "Mode 2",
+            "map": "random",
+            "teams": true,
+            "reset_time": 180
+        }
+    }
+}

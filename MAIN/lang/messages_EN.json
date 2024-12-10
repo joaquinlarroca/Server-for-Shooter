@@ -1,0 +1,13 @@
+{
+    "InvalidUsernameOrPassword": "Invalid username or password",
+    "UserAlreadyExists": "User already exists",
+    "AlreadyLoggedIn": "You are already logged in",
+    "YouAreNotLoggedIn": "You are not logged in",
+    "UsernameOrPasswordInvalidLength": "Username must be between 4 and 16 characters, only letters and numbers.\n Password must be between 8 and 24 characters",
+    "OK": "OK",
+    "InvalidOrigin": "Invalid Origin",
+    "MaxConnectionsReached": "Max connections reached",
+    "ServerIsPasswordProtected": "Server is password protected",
+    "AlreadyInGame": "Already in game",
+    "NotInGame": "Not in game"
+}

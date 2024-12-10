@@ -1,0 +1,23 @@
+{
+    "ip": "localhost",
+    "port": 443,
+    "version": "1.0",
+    "max-players": 10,
+    "cross-origin": {
+        "active": true,
+        "domains": [
+            "127.0.0.1",
+            "localhost"
+        ]
+    },
+    "password-protected": {
+        "active": false,
+        "password": "password"
+    },
+    "discarded-close-codes": [
+        3001,
+        4000,
+        4001
+    ],
+    "lang": "EN"
+}

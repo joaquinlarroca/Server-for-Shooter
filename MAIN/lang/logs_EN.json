@@ -1,0 +1,19 @@
+{
+    "(R)": "{color.ENDC}",
+    "(PINK)": "{color.HEADER}",
+    "(BLUE)": "{color.OKBLUE}",
+    "(GRAY)": "{color.GRAY}",
+    "(CYAN)": "{color.OKCYAN}",
+    "(GREEN)": "{color.OKGREEN}",
+    "(YELLOW)": "{color.WARNING}",
+    "(RED)": "{color.FAIL}",
+    "(B)": "{color.BOLD}",
+    "(U)": "{color.UNDERLINE}",
+
+
+    "Connect": "(GRAY)([1]/[2]) (CYAN)[[0]](R) connected",
+    "Disconnect": "(GRAY)([1]/[2]) (CYAN)[[0]](R) disconnected",
+    "ServerStart": "(B)(PINK)Server started at [0]:[1], version: [2]",
+    "ServerStop": "(B)(PINK)Server stopping",
+    "UnexpectedError": "(RED)Unexpected error: [0]"
+}

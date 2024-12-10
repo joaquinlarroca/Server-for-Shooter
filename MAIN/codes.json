@@ -1,0 +1,20 @@
+{
+    "sign_response": {
+        "Invalid Username or Password": 0,
+        "OK": 1,
+        "You are already logged in": 2,
+        "User already exists": 3,
+        "You are not logged in": 4,
+        "Username or Password length invalid": 5
+    },
+    "game_response": {
+        "Already in game": 0,
+        "OK": 1,
+        "Not in game": 2
+    },
+    "close_codes": {
+        "Invalid Origin": 3001,
+        "Max connections reached": 4000,
+        "Server is password protected": 4001
+    }
+}
